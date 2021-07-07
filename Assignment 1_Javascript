@@ -1,5 +1,5 @@
 // Day 1 date:july 6 
-// Print"*" 5 times vertically
+// Print"*" 5 times Horizontally
 str="";
 for(i=0;i<5;i=i+1){
   str+="*";
@@ -8,3 +8,6 @@ console.log(str);
 
 
 output:*****
+
+
+
